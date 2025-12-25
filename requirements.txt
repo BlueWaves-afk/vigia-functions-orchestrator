@@ -1,0 +1,7 @@
+azure-functions
+azure-identity>=1.15.0
+azure-kusto-data
+azure-confidentialledger>=1.1.0
+azure-confidentialledger-certificate>=1.0.0b1
+azure-ai-projects>=1.0.0b2
+azure-ai-agents>=1.1.0
