@@ -1,10 +1,4 @@
-Here is the text formatted into clean, professional GitHub-flavored Markdown. This layout uses code blocks, bolding for emphasis, and clear hierarchy to guide the judge’s eye through your architecture decisions.
 
-You can copy the code block below directly into your `README.md` file.
-
----
-
-```markdown
 # VIGIA Azure Functions — Deterministic Orchestrator + Agent-Verified Trust Pipeline
 
 VIGIA is a road-hazard intelligence system designed for real-time reporting, verification, and trustable auditability.
